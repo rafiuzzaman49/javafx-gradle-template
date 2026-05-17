@@ -29,7 +29,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'de.buw.se.AppGUI'
+    mainClass = 'de.buw.se.Main'
 }
 
 tasks.withType(JavaCompile) {
